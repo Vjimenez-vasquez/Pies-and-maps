@@ -1,6 +1,5 @@
 # Pies-and-maps
 a collection of codes for pie-charts on maps
-
 ![pie_chart](https://github.com/Vjimenez-vasquez/Pies-and-maps/assets/89874227/5fa7d6a1-6274-4728-a7ea-45a0d3c193fe)
 
 # step 1 : load libraries

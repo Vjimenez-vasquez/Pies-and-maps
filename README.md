@@ -1,6 +1,6 @@
 # Pies-and-maps
 a collection of codes for pie-charts on maps designed by Victor Jimenez-Vasquez (vr.jimenez.vs@gmail.com)
-![pie_chart](https://github.com/Vjimenez-vasquez/Pies-and-maps/assets/89874227/5fa7d6a1-6274-4728-a7ea-45a0d3c193fe)
+![pie_chart_res](https://github.com/Vjimenez-vasquez/Pies-and-maps/assets/89874227/35363f88-26e7-4a35-a96e-a7f742e74de0)
 
 # step 1 : load libraries
 ```r

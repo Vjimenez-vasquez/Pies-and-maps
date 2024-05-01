@@ -59,7 +59,7 @@ a6 <- data.frame(a5,a4,a3)
 a7 <- a6[order(a6$a4,a6$a5),]
 ```
 
-# step 5 : estimate frequencies 
+# step 5 : obtain pies and plot on the map (mappplot3)
 ```r
 # 1 # prepare the loop #
 library(fossil)
